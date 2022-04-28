@@ -9,7 +9,7 @@ public class RebéEjemploGit {
 
     public static void main(String[] args) {
         
-        System.out.println("Carla, version 1.0");
+        System.out.println("Carla, version 2.0");
         
     }
     
